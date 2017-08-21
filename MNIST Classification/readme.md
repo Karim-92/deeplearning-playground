@@ -6,7 +6,7 @@ Accuracy and loss:
 ---
 + Accuracy:
 
-![](https://github.com/Karim-92/tensorflow-playground/blob/master/MNIST%20Classification/accuracy.jpg)
+![](https://github.com/Karim-92/tensorflow-playground/blob/master/MNIST%20Classification/accuracy.JPG)
 
 + Loss: 
 
