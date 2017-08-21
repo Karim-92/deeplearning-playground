@@ -7,6 +7,6 @@ Projects:
 2. K-Means clustering.
 3. MNIST data classification using CNN(With Tensorboard).
 
-Citation:
+Citations:
 ---
 + [Deep learning for computer vision](http://imatge-upc.github.io/telecombcn-2016-dlcv/). 
