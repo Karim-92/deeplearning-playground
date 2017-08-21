@@ -1,2 +1,12 @@
-# dlcv-tensorflow-playground
-Tensorflow practice projects for the Deep Learning for Computer Vision course.
+# Tensorflow Playground
+Tensorflow practice projects.
+
+Projects:
+---
+1. Linear regression.
+2. K-Means clustering.
+3. MNIST data classification using CNN(With Tensorboard).
+
+Citation:
+---
++ [Deep learning for computer vision](http://imatge-upc.github.io/telecombcn-2016-dlcv/). 
