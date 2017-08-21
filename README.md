@@ -1,5 +1,5 @@
-# Tensorflow Playground
-Tensorflow practice projects.
+# Deep Learning Playground
+Deep Learning practice projects.
 
 Projects:
 ---
